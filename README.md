@@ -1,0 +1,2 @@
+# Depression-Symptoms-Analysis-and-global-trend-analysis-using-Exploratory-Data-Analysis-EDA-
+This project focuses on analyzing depression symptom frequency using Python-based Exploratory Data Analysis (EDA). The dataset was explored to understand relationships between different depression symptom frequencies such as Nearly every day, More than half the days, Several days, and Not at all. Using data visualization techniques 
